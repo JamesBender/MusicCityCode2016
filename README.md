@@ -1,7 +1,7 @@
 # MusicCityCode2016
 Slides/demos from all of my Music City Code 2016 talks
 
-Don't forget to checkout [IgniteUI](www.igniteUI.com) and [follow me on Twitter](www.twitter.com/JamesBender)
+Don't forget to checkout [IgniteUI](http://www.igniteUI.com) and [follow me on Twitter](http://www.twitter.com/JamesBender)
 
 
 
